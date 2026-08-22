@@ -1,9 +1,9 @@
 # Corpus Index
 
-## Current semantic owners hosted here
+## Standalone semantic owners formerly hosted here
 
-- [Network](owners/network/README.md)
-- [Ordivon Normative](owners/ordivon-normative/README.md)
+- [Ordivon Interlocus](https://github.com/zycxfyh/ordivon-interlocus) — stable owner id `research-owner:network`; old-path [tombstone](owners/network/README.md).
+- [Ordivon Normative](https://github.com/zycxfyh/ordivon-normative) — old-path [tombstone](owners/ordivon-normative/README.md).
 
 ## Historical corpus hosted here
 

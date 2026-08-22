@@ -1,6 +1,6 @@
 # Ordivon Shared Research Corpus
 
-This repository is a **shared physical research-corpus durability container** for owner-native research corpora and historical research that intentionally lack an implementation repository.
+This repository is a **shared physical research-corpus durability container** for owner-native research corpora and historical research that intentionally lack a suitable standalone repository.
 
 ## Constitutional boundary
 
@@ -18,10 +18,10 @@ This repository is **not**:
 
 Semantic authority remains owner-native. Host owns work continuity, Git/Artifacts own exact bytes/provenance, Atlas projects institutional discovery/recovery state, and Computer owns selective cross-owner synthesis.
 
-## Initial authorized corpus
+## Current corpus
 
-- `owners/network/` — current Network owner corpus.
-- `owners/ordivon-normative/` — current Ordivon Normative owner corpus.
 - `history/post-host-research-history/` — sibling Post-Host PHR1–PHR4 research history.
+- `owners/network/` — non-authoritative migration tombstone for the owner now physically hosted by [`ordivon-interlocus`](https://github.com/zycxfyh/ordivon-interlocus).
+- `owners/ordivon-normative/` — non-authoritative migration tombstone for the owner now physically hosted by [`ordivon-normative`](https://github.com/zycxfyh/ordivon-normative).
 
-Existing owner corpora already materialized in their own repositories are deliberately **not** copied here for symmetry.
+Interlocus and Ordivon Normative were split to standalone repositories on 2026-08-22. Their historical bodies remain recoverable from this repository's Git history; current owner truth is no longer served from the old subtrees.

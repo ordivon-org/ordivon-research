@@ -1,30 +1,14 @@
-# Ordivon Normative Research Core
+# Ordivon Normative — moved
 
-Canonical owner referent: **context-relative constitutive and normative admission, consequence, competence/power, and valid transformation semantics**.
+This path is a **non-authoritative migration tombstone**.
 
-It is not universal Law, Institution, Governance, Constitution, Order, Authority, legitimacy, or Normativity simpliciter.
+Current standalone physical home: [`zycxfyh/ordivon-normative`](https://github.com/zycxfyh/ordivon-normative)
 
-Numbered Foundation count: **0**.
+- semantic owner: `research-owner:ordivon-normative`
+- authority: `authority:ordivon:research-owner:ordivon-normative`
+- current migration authority version: `sha256:d0a1149b8c0278e5ca53122e9bc053c45ed64c0831e7cdb2616981361e6be9f3`
+- source split fence: `ordivon-research@6cee31e6c251e3c245ced73ea544f453a68f19e9`
+- source subtree tree: `35a83d5a8aacbe1ad4a0099dcc424ae157e494c8`
+- Atlas live-source cutover: `ordivon-atlas@ba71026766742a7b688b4a1ef1a40ace4e7dc456`
 
-Canonical frozen foundation-level architecture remains:
-1. AnchorInterface.
-2. GeneratorAdmissionStructure.
-3. Constitutive/Normative Derivation-and-Transition Semantics.
-
-## Current formal core
-
-The current owner-native formal reference is [FORMAL-CORE-REFERENCE-CONTRACT.md](FORMAL-CORE-REFERENCE-CONTRACT.md). It is a technology-neutral semantic contract, not a database schema, rule engine, policy DSL, or production authorization service.
-
-The formal programme lineage and negative results are summarized in [PROGRAMME-N0-N11-LINEAGE.md](PROGRAMME-N0-N11-LINEAGE.md). Cross-domain dogfood and regression evidence are summarized in [DOGFOOD-AND-REGRESSION-EVIDENCE.md](DOGFOOD-AND-REGRESSION-EVIDENCE.md).
-
-Executable status is bounded by [EXECUTABLE-BOUNDARY.md](EXECUTABLE-BOUNDARY.md): a disposable non-authoritative conformance witness is admitted for falsification/replay; a general inference kernel, production API/MCP/service, persistent normative truth store, current-cut resolver, and operational enforcement authority remain **NOT ADMITTED**.
-
-The executable witness under `conformance-witness/` is research evidence/tooling only and does not mint semantic authority.
-
-## Phase II operating mode
-
-Phase I foundational discovery is complete. Phase II is governed by [PHASE-II-PROJECT-CONSTITUTION.md](PHASE-II-PROJECT-CONSTITUTION.md): the formal core stays frozen unless a concrete falsifying pressure satisfies the project reopen/admission rules. There is no automatic N13/N14 sequence.
-
-Open frontiers are mapped in [PHASE-II-RESEARCH-MAP.md](PHASE-II-RESEARCH-MAP.md). They are trigger-bound research spaces, not a mandatory backlog.
-
-Downstream/domain anomalies are classified through [PRESSURE-TO-PROGRAMME-PROTOCOL.md](PRESSURE-TO-PROGRAMME-PROTOCOL.md) before any new semantic programme is admitted. Vocabulary, representation, bridge, engineering, owner-boundary, and genuine core pressures must not be conflated.
+The former owner corpus and authority publications remain recoverable from Git history. No current authority publication lives at this path after the physical split.

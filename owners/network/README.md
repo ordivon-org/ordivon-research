@@ -1,51 +1,15 @@
-# Interlocus Research Core
+# Ordivon Interlocus — moved
 
-**Canonical project name:** Ordivon Interlocus
-**Canonical referent:** **Interlocus Capability**
-**Historical name / stable identity alias:** Network / `research-owner:network`
+This path is a **non-authoritative migration tombstone** for the owner historically stored under `owners/network/`.
 
-Interlocus is the semantic owner of qualified **cross-locus capability, composition/realization, structural interaction projection, service/satisfaction, reference-resolution/binding, and forwarding/reachability specializations** where those semantics apply.
+Current standalone physical home: [`zycxfyh/ordivon-interlocus`](https://github.com/zycxfyh/ordivon-interlocus)
 
-It is not the ontology of packets, hosts, IP, links, routing tables, graph topology, execution, computation, Agent coordination, normative permission, or computational-description meaning. Conventional networking is a major specialization of Interlocus, not the owner-level referent.
+- canonical name: `Ordivon Interlocus`
+- stable semantic owner: `research-owner:network`
+- stable authority: `authority:ordivon:research-owner:network`
+- current migration authority version: `sha256:31d78dd22ca73b95fc9a1107ad6a38e884859e94247263d14b916cef67e78e2a`
+- source split fence: `ordivon-research@6cee31e6c251e3c245ced73ea544f453a68f19e9`
+- source subtree tree: `b9ff41a62bd051791639b7d29b23ede32698ebad`
+- Atlas live-source cutover: `ordivon-atlas@ba71026766742a7b688b4a1ef1a40ace4e7dc456`
 
-See [`NAME-TRANSITION-20260819.md`](NAME-TRANSITION-20260819.md) for the controlled Network → Interlocus naming transition. Stable paths, ResearchRefs, authority identities, NDF/NCT identifiers and frozen artifact names are intentionally retained for provenance and recovery.
-
-## Current canonical standing
-
-Foundation registry: **NDF0–NDF5 frozen at the current evidence frontier; NDF6 NOT ADMITTED.**
-
-Whole-Interlocus coverage: strong provisional domain closure; exhaustive whole-domain closure is **not established**.
-
-Current derived-theory reconstruction is also semantically closed:
-
-- **Interlocus Core Theory v1** — frozen historical artifact `Network Core Theory v1`, identifier `NCT_v1=<K,Π,H;J>_Γ`;
-- **Interlocus Capability Calculus v1** — frozen artifact `Network Capability Calculus v1`, K axis;
-- **Interlocus Projection & Currentness Theory v1** — frozen artifact `Network Projection & Currentness Theory v1`, Π / evidence-currentness-facing J;
-- **Interlocus Operational Realization Theory v1** — frozen artifact `Network Operational Realization Theory v1`, H axis;
-- **Whole-NCT Derived Reconciliation v1** — frozen historical identifier retained; final disposition `INTERFACE REPAIR FREEZE`.
-
-Start with [`CANONICAL-THEORY-MAP.md`](CANONICAL-THEORY-MAP.md) for the current semantic navigation, exact frozen commits and durable refs.
-
-## Foundation navigation
-
-- [`FOUNDATION-ARCHITECTURE.md`](FOUNDATION-ARCHITECTURE.md)
-- [`NDF-REGISTRY.md`](NDF-REGISTRY.md)
-- [`REPAIRED-HISTORY.md`](REPAIRED-HISTORY.md)
-- [`COVERAGE-CLOSURE.md`](COVERAGE-CLOSURE.md)
-- [`NEGATIVE-RESIDUAL-HISTORY.md`](NEGATIVE-RESIDUAL-HISTORY.md)
-
-## Derived theory navigation
-
-- [`core-theory/`](core-theory/)
-- [`capability-calculus/`](capability-calculus/)
-- [`projection-currentness/`](projection-currentness/)
-- [`operational-realization/`](operational-realization/)
-- [`whole-nct/`](whole-nct/)
-
-## Engineering and owner bridges
-
-- [`CROSS-OWNER-INTERFACES.md`](CROSS-OWNER-INTERFACES.md)
-- [`ENGINEERING-BRIDGES.md`](ENGINEERING-BRIDGES.md)
-- [`PROVENANCE.md`](PROVENANCE.md)
-
-Architecture is a typed responsibility graph, not a mandatory numbered protocol stack. Shared repository integration provides durability/navigation only; it does not transfer semantic ownership to Git `main` or to another Ordivon owner.
+The repository move does not rename the stable `research-owner:network` identity. The former owner corpus and authority publications remain recoverable from Git history; no current authority publication lives at this path.
