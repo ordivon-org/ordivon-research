@@ -1,7 +1,7 @@
 # License scope
 
-Except where a file or passage is explicitly identified as having a different rights basis, the tracked contents of this repository are licensed under the Apache License, Version 2.0. The full license text is in `LICENSE`.
+The tracked contents of this repository in this release are licensed under the Apache License, Version 2.0, except material explicitly marked otherwise. The full license text is in `LICENSE`.
 
-This licensing statement applies to the work present in the tracked repository tree in which it is distributed. It does not, by itself, grant rights in historical owner bodies that are absent from that tree, including historical Ordivon Normative or Ordivon Interlocus source trees recoverable only from prior Git history or other repositories.
+This grant applies to the Work actually distributed in this repository. A reference to, or recoverability of, material that is not included in this release does not by itself place that other material within this grant.
 
-References to external repositories or historical works do not by themselves grant rights in those external or absent works.
+No patent rights are granted beyond the patent license expressly provided by Section 3 of Apache-2.0. Unpublished material, undisclosed know-how, trade secrets, trademarks, and other rights not expressly granted by Apache-2.0 remain reserved.
