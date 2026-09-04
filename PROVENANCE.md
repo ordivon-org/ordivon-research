@@ -27,4 +27,4 @@ Two semantic owners later acquired standalone physical homes:
 - Network / canonical name **Ordivon Interlocus** -> `git@github.com:zycxfyh/ordivon-interlocus.git`; stable owner id remains `research-owner:network`.
 - **Ordivon Normative** -> `git@github.com:zycxfyh/ordivon-normative.git`.
 
-Migration source fence: `ordivon-research@6cee31e6c251e3c245ced73ea544f453a68f19e9`. Atlas live-source registry switched at `ordivon-atlas@ba71026766742a7b688b4a1ef1a40ace4e7dc456`. The old owner bodies remain recoverable from Git history; their old `main` paths are now non-authoritative tombstones.
+Migration source fence: `ordivon-research@6cee31e62d089c9d3ae6387847f1ad13b3cca907`. Atlas live-source registry switched at `ordivon-atlas@ba71026766742a7b688b4a1ef1a40ace4e7dc456`. The old owner bodies remain recoverable from Git history; their old `main` paths are now non-authoritative tombstones.
