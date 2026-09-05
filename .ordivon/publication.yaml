@@ -1,0 +1,26 @@
+schemaVersion: 1
+kind: ordivon.repository-publication
+repository: ordivon-org/ordivon-research
+visibilityPolicy: public-by-default
+currentRemoteStanding: PUBLIC_NATIVE
+prePublicationGateRequired: true
+organizationPolicy: https://github.com/ordivon-org/.github/blob/main/PUBLICATION_POLICY.md
+privateOrEmbargoedExceptions:
+  - live-secrets-and-authentication-material
+  - raw-or-linkable-personal-data
+  - private-correspondence-without-publication-authority
+  - third-party-restricted-material
+  - responsible-disclosure-security-material
+  - patent-sensitive-work-before-publication-decision
+  - operational-details-whose-disclosure-creates-unnecessary-risk
+lastAuditedBaseRevision: d48507c3c9a482b6c92ec2ccb292b2eccdaaf8d7
+publicationBoundary:
+  includes:
+    - remote-main
+    - remote-branches
+    - tags
+    - reachable-history
+    - commit-metadata
+  excludes:
+    - local-only-unpublished-commits
+    - untracked-workstation-state
